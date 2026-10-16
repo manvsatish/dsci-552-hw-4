@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+.DS_Store
+__MACOSX/
+data/AReM/
+__pycache__/
+*.pyc
